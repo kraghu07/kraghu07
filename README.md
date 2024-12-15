@@ -7,8 +7,7 @@
 - 🔭 I’m currently working on **Python Full Stack Development**  
 - 🌱 I’m currently learning **Django**  
 - 👯 I’m looking to collaborate on a **FinTech Website**  
-- 💬 Ask me about **Python**  
-- 📫 How to reach me: [Your Email/LinkedIn URL]  
+- 💬 Ask me about **Python**    
 - ⚡ Fun fact: I love turning ideas into reality through code!  
 
 ---
@@ -37,8 +36,8 @@
 
 ## 📊 GitHub Stats  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raghu&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghu&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kraghu07&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kraghu07&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
